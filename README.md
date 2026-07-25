@@ -69,4 +69,4 @@ The report includes confusion matrices and accuracy metrics for each model. Open
 
 ## Contact
 
-Project authors: Maruthi V Kamath and collaborators.
+Project authors: Maruthi V Kamath.
